@@ -32,6 +32,7 @@ body {
 
 /* qr image */
 img {
+  width: 100%;
   max-width: 288px;
   max-height: 288px;
   border-radius: 10%;
