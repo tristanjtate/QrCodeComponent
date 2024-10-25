@@ -26,9 +26,8 @@ I was tasked via Frontend Mentor, to build out a QR code card that was optimized
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+ 
+- Live Site URL: [Github Pages Live Site](https://tristanjtate.github.io/QrCodeComponent/)
 
 ## My process
 I closely reviewed the Figma design file, and I reviewd the design guide to matche expected output. I built out the HTML structure and started with a mobile first approach. I used responsive tactics like max-width to optimize for desktop. I used CSS Flexbox and DevTools to closely match design!
