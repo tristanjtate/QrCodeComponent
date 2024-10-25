@@ -1,3 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
 /* body styles/universal */
 body {
   background-color: hsl(212, 45%, 89%);
