@@ -56,7 +56,7 @@ I plan to continue my knowledge in Responsive design. Although, this is not my f
 ## Author
 
 - GitHub - [tristanjtate](https://github.com/tristanjtate)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tristanjtate)
+- Frontend Mentor - [@tristanjtate](https://www.frontendmentor.io/profile/tristanjtate)
 - Linkedin - [@tristanjtate](https://www.linkedin.com/in/tristantate/)
 
 
